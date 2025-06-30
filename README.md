@@ -33,7 +33,14 @@ Here are some projects I'm working on or planning to share soon:
 
 ### 📫 Connect With Me
 - 🔗 [LinkedIn](https://linkedin.com/in/mashuda-shaikh-24266b340)
-- 📧 Email: mashudashaikh089@gmail.com 
+- 📧 Email: mashudashaikh089@gmail.com
+
+---
+
+### 🌐 Live Website
+
+- Check out the live version of this website here: [Visit Website](https://Mashuda-Shaikh.github.io/portfolio_website/)
+
 
 ---
 

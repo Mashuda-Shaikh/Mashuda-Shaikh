@@ -37,13 +37,6 @@ Here are some projects I'm working on or planning to share soon:
 
 ---
 
-### 🌐 Live Website
-
-- Check out the live version of this website here: [Visit Website](https://Mashuda-Shaikh.github.io/portfolio_website/)
-
-
----
-
 ### 📊 GitHub Stats
 ![Mashuda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mashuda-Shaikh&show_icons=true&theme=tokyonight)
 

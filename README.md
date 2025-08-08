@@ -4,11 +4,12 @@
 ---
 
 ### 📚 About Me
-🎓 I'm currently pursuing a degree in <b>Information Technology</b> from <b>B.K. Birla College, Kalyan</b>.  
-🌱 I’m currently learning <b>web development</b>, building my <b>personal portfolio</b>, and working on small projects.  
-💡 I'm passionate about technology and always eager to improve my skills.  
-💼 Looking forward to gaining internship experience and becoming a full-stack developer.  
-🎯 Career Goal: To grow as a skilled developer and contribute to innovative tech solutions.
+🎓 I’m a second-year B.Sc. IT student at B.K. Birla College, Kalyan, with a strong passion for technology and problem-solving.<br>
+🌱 Currently, I’m diving deep into web development, building my personal portfolio website, and working on small but impactful projects to sharpen my skills.<br>
+💡 I believe in learning by doing, so I actively explore HTML, CSS, JavaScript, Python, Java, and C/C++ while experimenting with real-world applications.<br>
+💼 My aim is to gain valuable internship experience that allows me to apply my knowledge, collaborate with industry professionals, and understand how tech projects work in real environments.<br>
+🚀 Alongside academics, I focus on improving my English communication skills, problem-solving abilities, and keeping up with the latest tech trends.<br>
+🎯 My career goal is to grow into a skilled full-stack developer who can contribute to innovative and impactful technology solutions that make a difference.<br>
 
 ---
 

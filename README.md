@@ -4,7 +4,7 @@
 ---
 
 ### 📚 About Me
-🎓 I’m a second-year B.Sc. IT student at B.K. Birla College, Kalyan, with a strong passion for technology and problem-solving.<br>
+🎓 I’m a third-year B.Sc. IT student at B.K. Birla College, Kalyan, with a strong passion for technology and problem-solving.<br>
 🌱 Currently, I’m diving deep into web development, building my personal portfolio website, and working on small but impactful projects to sharpen my skills.<br>
 💡 I believe in learning by doing, so I actively explore HTML, CSS, JavaScript, Python, Java, and C/C++ while experimenting with real-world applications.<br>
 💼 My aim is to gain valuable internship experience that allows me to apply my knowledge, collaborate with industry professionals, and understand how tech projects work in real environments.<br>
